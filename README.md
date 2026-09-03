@@ -221,6 +221,6 @@ The sections below are **not yet implemented** — they're the planned extension
 
 ---
 
-**Author:** *Your Name*
+**Author:** *Sir Shashank Pandya*
 **Tech:** C++ · Graph Algorithms · Greedy Optimization
-**Contact:** your.email@example.com | [LinkedIn](#) | [GitHub](#)
+**Contact:** pandyashashank1@gmail.com
